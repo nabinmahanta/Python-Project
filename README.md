@@ -1,6 +1,4 @@
-Certainly! Below is a template for a README file for your Python project focused on T20 World Cup 2024 Analysis:
 
----
 
 # T20 World Cup 2024 Analysis using Python
 
@@ -32,53 +30,19 @@ The dataset I am using for the T20 World Cup 2022 analysis is collected from Kag
    pio.templates.default = "plotly_white"
 
 ## Usage
-1. Run the main script to perform data analysis:
+ Run the main script to perform data analysis:
    ```
-   python analyze_t20_wc.py
+   T20 World Cup 2024 Analysis.ipynb
    ```
-   
-2. Modify parameters or scripts as needed to customize analysis or add new features.
 
-## Directory Structure
-```
-t20-world-cup-2024-analysis/
-│
-├── data/
-│   ├── raw_data/
-│   └── processed_data/
-│
-├── notebooks/
-│   ├── exploratory_analysis.ipynb
-│   ├── performance_metrics.ipynb
-│   └── ...
-│
-├── src/
-│   ├── data_collection.py
-│   ├── data_cleaning.py
-│   ├── analyze_t20_wc.py
-│   └── ...
-│
-├── README.md
-└── requirements.txt
-```
-
-## Contributing
-- Fork the repository.
-- Create a new branch (`git checkout -b feature-branch`).
-- Make your changes.
-- Commit your changes (`git commit -am 'Add new feature'`).
-- Push to the branch (`git push origin feature-branch`).
-- Create a new Pull Request.
-
-## License
-Specify your project's license here.
 
 ## Credits
 List any contributors or sources of inspiration here.
+ -AMAN KHARWAL
+ -kaggle
 
 ## Contact
-For questions or feedback, please contact [Your Name](mailto:your_email@example.com).
+For questions or feedback, please contact [Nabin Mahanta](imnabin18@gmail.com).
 
 ---
 
-Feel free to customize this README template further based on your project's specifics and preferences.
