@@ -4,10 +4,11 @@ Certainly! Below is a template for a README file for your Python project focused
 
 # T20 World Cup 2024 Analysis using Python
 
-![T20 World Cup 2024](t20_world_cup_2024.jpg)
+![T20 World Cup 2024](T20_world_cup_2024.jpg)
 
 ## Overview
 This Python project aims to analyze data from the T20 World Cup 2024 using various data analysis and visualization techniques. The project focuses on extracting insights from match data, player statistics, team performance, and other relevant metrics.
+The dataset I am using for the T20 World Cup 2022 analysis is collected from Kaggle website.
 
 ## Features
 - **Data Collection**: Utilizes web scraping or APIs to gather match data and player statistics.
@@ -18,18 +19,17 @@ This Python project aims to analyze data from the T20 World Cup 2024 using vario
 
 ## Requirements
 - Python 3.x
-- List any additional libraries or dependencies required (e.g., pandas, matplotlib, seaborn)
+- Jupyter Notebook
+- List any additional libraries or dependencies required (e.g., pandas, plotly)
 
-## Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/your_username/t20-world-cup-2024-analysis.git
-   ```
-   
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+
+## Install dependencies:
+ 
+   import pandas as pd
+   import plotly.express as px
+   import plotly.graph_objects as go
+   import plotly.io as pio
+   pio.templates.default = "plotly_white"
 
 ## Usage
 1. Run the main script to perform data analysis:
