@@ -5,7 +5,7 @@
 
 ## Overview
 This Python project aims to analyze data from the T20 World Cup 2024 using various data analysis and visualization techniques. The project focuses on extracting insights from match data, player statistics, team performance, and other relevant metrics.
-The dataset I am using for the T20 World Cup 2022 analysis is collected from Kaggle website.
+The dataset I am using for the T20 World Cup 2024 analysis is collected from Kaggle website.
 
 ## Features
 - **Data Collection**: Utilizes web scraping or APIs to gather match data and player statistics.
