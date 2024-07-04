@@ -2,7 +2,6 @@
 
 # T20 World Cup 2024 Analysis using Python
 
-![T20 World Cup 2024](T20 World Cup 2024.jpg)
 
 ## Overview
 This Python project aims to analyze data from the T20 World Cup 2024 using various data analysis and visualization techniques. The project focuses on extracting insights from match data, player statistics, team performance, and other relevant metrics.
