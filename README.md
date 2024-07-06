@@ -22,11 +22,11 @@ The dataset I am using for the T20 World Cup 2024 analysis is collected from Kag
 
 ## Install dependencies:
  
-   import pandas as pd
-   import plotly.express as px
-   import plotly.graph_objects as go
-   import plotly.io as pio
-   pio.templates.default = "plotly_white"
+   - import pandas as pd
+   - import plotly.express as px
+   - import plotly.graph_objects as go
+   - import plotly.io as pio
+   - pio.templates.default = "plotly_white"
 
 ## Usage
  Run the main script to perform data analysis:
